@@ -1,5 +1,5 @@
 name: "Criminal Case Notes"
-baseurl: '/casenotes'
+baseurl: /casenotes
 markdown: redcarpet
 highlighter: pygments
 permalink: :title
