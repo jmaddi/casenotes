@@ -3,13 +3,26 @@
    <title>Criminal Case Notes</title>
    <link href="/atom.xml" rel="self"/>
    <link href=""/>
-   <updated>2014-08-14T22:34:25+10:00</updated>
+   <updated>2014-08-14T22:59:47+10:00</updated>
    <id></id>
    <author>
       <name>John Doe</name>
       <email>john.doe@mail.sexy</email>
    </author>
 
+   
+   <entry>
+      <title>R v Taber</title>
+      <link href="/r-v-taber"/>
+      <updated>2014-08-14T00:00:00+10:00</updated>
+      <id>/r-v-taber</id>
+      <content type="html">&lt;p&gt;&lt;strong&gt;Issue:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Facts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ratio:&lt;/strong&gt;&lt;/p&gt;
+</content>
+   </entry>
    
    <entry>
       <title>Green v R (1997)</title>

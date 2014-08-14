@@ -65,11 +65,37 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "citation: "
+    post.puts ""
+
+    post.puts "court: "
+    post.puts "judges:"
+    post.puts "  - name: "
+    post.puts "    verdict: "
+    post.puts "order: "
+    post.puts "source: "
+    post.puts ""
+
     post.puts 'description: ""'
     post.puts "category: #{category}"
     post.puts "tags: #{tags}"
     post.puts "---"
-    post.puts "{% include JB/setup %}"
+
+    post.puts ""
+    post.puts "**Issue:**"
+    post.puts ""
+    post.puts ""
+    post.puts ""
+    post.puts "**Facts:**"
+    post.puts ""
+    post.puts ""
+    post.puts ""
+    post.puts "**Ratio:**"
+    post.puts ""
+    post.puts ""
+    post.puts ""
+
+    #post.puts "{% include JB/setup %}"
   end
 end # task :post
 
